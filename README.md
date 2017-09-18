@@ -1,11 +1,11 @@
-#Google Keep for Mac OS
+# Google Keep for Mac OS
 A simple Mac OS app for Google Keep. 
 
-#Build With 
+# Build With 
 - Javascript 
 - [MacGap](https://github.com/maccman/macgap-rb)
 
-#Installation Guide 
+# Installation Guide 
 - Install MacGap 
 
 `gem install macgap`
